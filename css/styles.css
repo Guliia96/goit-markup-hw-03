@@ -137,6 +137,8 @@ a {
   padding: 16px 32px;
   margin: 0 auto;
   display: block;
+  min-width: 169px;
+  border-radius: 4px;
 }
 
 .section {
