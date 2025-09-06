@@ -175,6 +175,12 @@ a {
    overflow: hidden;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -213,6 +219,10 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin: 32px 0 8px;
+}
+
+.page-nav {
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .text-team {
