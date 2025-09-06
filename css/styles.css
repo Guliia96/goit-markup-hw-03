@@ -210,6 +210,10 @@ img {
   padding: 120px 0;
 }
 
+.first-card {
+  border-radius: 0px 0px 4px 4px;
+}
+
 .subtitle-team {
   font-weight: 500;
   font-size: 20px;
